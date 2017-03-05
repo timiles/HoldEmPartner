@@ -1,6 +1,6 @@
-# Hold 'em Partner
+# :spades::hearts: Hold 'em Partner :clubs::diamonds:
 
-Calculates probabilities of the possible hands in Texas hold 'em poker. :spades: :hearts: :clubs: :diamonds:
+Calculates probabilities of the possible hands in Texas hold 'em poker. 
 
 ![screen shot of Hold 'em Partner](/screenshot.png)
 
