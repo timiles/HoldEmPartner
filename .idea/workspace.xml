@@ -2,67 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb34d875-7286-48fc-bfd7-81c76face425" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/timiles/holdempartner/images/cards/10ofclubs.gif" afterPath="$PROJECT_DIR$/images/cards/10ofclubs.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/timiles/holdempartner/images/cards/10ofdiamonds.gif" afterPath="$PROJECT_DIR$/images/cards/10ofdiamonds.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/timiles/holdempartner/images/cards/10ofhearts.gif" afterPath="$PROJECT_DIR$/images/cards/10ofhearts.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/timiles/holdempartner/images/cards/10ofspades.gif" afterPath="$PROJECT_DIR$/images/cards/10ofspades.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/timiles/holdempartner/images/cards/2ofclubs.gif" afterPath="$PROJECT_DIR$/images/cards/2ofclubs.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/timiles/holdempartner/images/cards/2ofdiamonds.gif" afterPath="$PROJECT_DIR$/images/cards/2ofdiamonds.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/timiles/holdempartner/images/cards/2ofhearts.gif" afterPath="$PROJECT_DIR$/images/cards/2ofhearts.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/timiles/holdempartner/images/cards/2ofspades.gif" afterPath="$PROJECT_DIR$/images/cards/2ofspades.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/timiles/holdempartner/images/cards/3ofclubs.gif" afterPath="$PROJECT_DIR$/images/cards/3ofclubs.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/timiles/holdempartner/images/cards/3ofdiamonds.gif" afterPath="$PROJECT_DIR$/images/cards/3ofdiamonds.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/timiles/holdempartner/images/cards/3ofhearts.gif" afterPath="$PROJECT_DIR$/images/cards/3ofhearts.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/timiles/holdempartner/images/cards/3ofspades.gif" afterPath="$PROJECT_DIR$/images/cards/3ofspades.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/timiles/holdempartner/images/cards/4ofclubs.gif" afterPath="$PROJECT_DIR$/images/cards/4ofclubs.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/timiles/holdempartner/images/cards/4ofdiamonds.gif" afterPath="$PROJECT_DIR$/images/cards/4ofdiamonds.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/timiles/holdempartner/images/cards/4ofhearts.gif" afterPath="$PROJECT_DIR$/images/cards/4ofhearts.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/timiles/holdempartner/images/cards/4ofspades.gif" afterPath="$PROJECT_DIR$/images/cards/4ofspades.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/timiles/holdempartner/images/cards/5ofclubs.gif" afterPath="$PROJECT_DIR$/images/cards/5ofclubs.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/timiles/holdempartner/images/cards/5ofdiamonds.gif" afterPath="$PROJECT_DIR$/images/cards/5ofdiamonds.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/timiles/holdempartner/images/cards/5ofhearts.gif" afterPath="$PROJECT_DIR$/images/cards/5ofhearts.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/timiles/holdempartner/images/cards/5ofspades.gif" afterPath="$PROJECT_DIR$/images/cards/5ofspades.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/timiles/holdempartner/images/cards/6ofclubs.gif" afterPath="$PROJECT_DIR$/images/cards/6ofclubs.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/timiles/holdempartner/images/cards/6ofdiamonds.gif" afterPath="$PROJECT_DIR$/images/cards/6ofdiamonds.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/timiles/holdempartner/images/cards/6ofhearts.gif" afterPath="$PROJECT_DIR$/images/cards/6ofhearts.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/timiles/holdempartner/images/cards/6ofspades.gif" afterPath="$PROJECT_DIR$/images/cards/6ofspades.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/timiles/holdempartner/images/cards/7ofclubs.gif" afterPath="$PROJECT_DIR$/images/cards/7ofclubs.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/timiles/holdempartner/images/cards/7ofdiamonds.gif" afterPath="$PROJECT_DIR$/images/cards/7ofdiamonds.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/timiles/holdempartner/images/cards/7ofhearts.gif" afterPath="$PROJECT_DIR$/images/cards/7ofhearts.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/timiles/holdempartner/images/cards/7ofspades.gif" afterPath="$PROJECT_DIR$/images/cards/7ofspades.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/timiles/holdempartner/images/cards/8ofclubs.gif" afterPath="$PROJECT_DIR$/images/cards/8ofclubs.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/timiles/holdempartner/images/cards/8ofdiamonds.gif" afterPath="$PROJECT_DIR$/images/cards/8ofdiamonds.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/timiles/holdempartner/images/cards/8ofhearts.gif" afterPath="$PROJECT_DIR$/images/cards/8ofhearts.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/timiles/holdempartner/images/cards/8ofspades.gif" afterPath="$PROJECT_DIR$/images/cards/8ofspades.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/timiles/holdempartner/images/cards/9ofclubs.gif" afterPath="$PROJECT_DIR$/images/cards/9ofclubs.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/timiles/holdempartner/images/cards/9ofdiamonds.gif" afterPath="$PROJECT_DIR$/images/cards/9ofdiamonds.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/timiles/holdempartner/images/cards/9ofhearts.gif" afterPath="$PROJECT_DIR$/images/cards/9ofhearts.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/timiles/holdempartner/images/cards/9ofspades.gif" afterPath="$PROJECT_DIR$/images/cards/9ofspades.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/timiles/holdempartner/images/cards/aceofclubs.gif" afterPath="$PROJECT_DIR$/images/cards/aceofclubs.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/timiles/holdempartner/images/cards/aceofdiamonds.gif" afterPath="$PROJECT_DIR$/images/cards/aceofdiamonds.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/timiles/holdempartner/images/cards/aceofhearts.gif" afterPath="$PROJECT_DIR$/images/cards/aceofhearts.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/timiles/holdempartner/images/cards/aceofspades.gif" afterPath="$PROJECT_DIR$/images/cards/aceofspades.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/timiles/holdempartner/images/cards/jackofclubs.gif" afterPath="$PROJECT_DIR$/images/cards/jackofclubs.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/timiles/holdempartner/images/cards/jackofdiamonds.gif" afterPath="$PROJECT_DIR$/images/cards/jackofdiamonds.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/timiles/holdempartner/images/cards/jackofhearts.gif" afterPath="$PROJECT_DIR$/images/cards/jackofhearts.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/timiles/holdempartner/images/cards/jackofspades.gif" afterPath="$PROJECT_DIR$/images/cards/jackofspades.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/timiles/holdempartner/images/cards/kingofclubs.gif" afterPath="$PROJECT_DIR$/images/cards/kingofclubs.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/timiles/holdempartner/images/cards/kingofdiamonds.gif" afterPath="$PROJECT_DIR$/images/cards/kingofdiamonds.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/timiles/holdempartner/images/cards/kingofhearts.gif" afterPath="$PROJECT_DIR$/images/cards/kingofhearts.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/timiles/holdempartner/images/cards/kingofspades.gif" afterPath="$PROJECT_DIR$/images/cards/kingofspades.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/timiles/holdempartner/images/cards/null.gif" afterPath="$PROJECT_DIR$/images/cards/null.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/timiles/holdempartner/images/cards/queenofclubs.gif" afterPath="$PROJECT_DIR$/images/cards/queenofclubs.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/timiles/holdempartner/images/cards/queenofdiamonds.gif" afterPath="$PROJECT_DIR$/images/cards/queenofdiamonds.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/timiles/holdempartner/images/cards/queenofhearts.gif" afterPath="$PROJECT_DIR$/images/cards/queenofhearts.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/timiles/holdempartner/images/cards/queenofspades.gif" afterPath="$PROJECT_DIR$/images/cards/queenofspades.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/timiles/holdempartner/images/icons/small_icon.gif" afterPath="$PROJECT_DIR$/images/icons/small_icon.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/timiles/holdempartner/images/icons/splash_icon.gif" afterPath="$PROJECT_DIR$/images/icons/splash_icon.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/timiles/holdempartner/images/suits/clubs.gif" afterPath="$PROJECT_DIR$/images/suits/clubs.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/timiles/holdempartner/images/suits/diamonds.gif" afterPath="$PROJECT_DIR$/images/suits/diamonds.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/timiles/holdempartner/images/suits/hearts.gif" afterPath="$PROJECT_DIR$/images/suits/hearts.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/timiles/holdempartner/images/suits/spades.gif" afterPath="$PROJECT_DIR$/images/suits/spades.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screenshot.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/timiles/holdempartner/SplashScreen.java" afterPath="$PROJECT_DIR$/src/com/timiles/holdempartner/SplashScreen.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -78,104 +20,12 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ProbabilityDisplay.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/timiles/holdempartner/ProbabilityDisplay.java">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <state relative-caret-position="120">
+              <caret line="8" column="52" lean-forward="false" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ProbabilityFormulae.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/timiles/holdempartner/ProbabilityFormulae.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ProbabilityOptions.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/timiles/holdempartner/ProbabilityOptions.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="23" column="22" lean-forward="false" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SplashScreen.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/timiles/holdempartner/SplashScreen.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="20" column="10" lean-forward="false" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TheirProbabilityFormulae.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/timiles/holdempartner/TheirProbabilityFormulae.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="33" lean-forward="false" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AboutDialog.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/timiles/holdempartner/myUtils/AboutDialog.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Card.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/timiles/holdempartner/Card.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="6" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CardsDisplay.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/timiles/holdempartner/CardsDisplay.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="25" column="9" lean-forward="false" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MyMath.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/timiles/holdempartner/myUtils/MyMath.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="YourProbabilityFormulae.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/timiles/holdempartner/YourProbabilityFormulae.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="6" lean-forward="false" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -210,12 +60,16 @@
         <option value="$PROJECT_DIR$/src/com/timiles/holdempartner/myUtils/AboutDialog.java" />
         <option value="$PROJECT_DIR$/src/com/timiles/holdempartner/CardsDisplay.java" />
         <option value="$PROJECT_DIR$/src/com/timiles/holdempartner/SplashScreen.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="width" value="1680" />
     <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -232,7 +86,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -245,46 +98,16 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HoldEmPartner" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HoldEmPartner" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="holdempartner" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HoldEmPartner" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HoldEmPartner" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="FullScreen" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -523,13 +346,12 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901296" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32901296" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901296" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -546,6 +368,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901296" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -562,11 +385,92 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/timiles/holdempartner/ProbabilityFormulae.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/timiles/holdempartner/ProbabilityOptions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="23" column="22" lean-forward="false" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/timiles/holdempartner/SplashScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="24" column="42" lean-forward="false" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/timiles/holdempartner/TheirProbabilityFormulae.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="33" lean-forward="false" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/timiles/holdempartner/myUtils/AboutDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/timiles/holdempartner/Card.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="6" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/timiles/holdempartner/CardsDisplay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="25" column="9" lean-forward="false" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/timiles/holdempartner/myUtils/MyMath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/timiles/holdempartner/YourProbabilityFormulae.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="12" column="6" lean-forward="false" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/timiles/holdempartner/ProbabilityDisplay.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -639,7 +543,7 @@
         <state relative-caret-position="180">
           <caret line="12" column="6" lean-forward="false" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -649,7 +553,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="31" column="5" lean-forward="false" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -657,7 +560,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -665,7 +567,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -673,7 +574,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -681,7 +581,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -689,7 +588,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -697,7 +595,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -705,7 +602,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -727,10 +623,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/timiles/holdempartner/YourProbabilityFormulae.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
+        <state relative-caret-position="165">
           <caret line="12" column="6" lean-forward="false" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -769,7 +665,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/timiles/holdempartner/CardsDisplay.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
+        <state relative-caret-position="270">
           <caret line="25" column="9" lean-forward="false" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
           <folding />
         </state>
@@ -777,8 +673,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/timiles/holdempartner/SplashScreen.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="20" column="10" lean-forward="false" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+        <state relative-caret-position="315">
+          <caret line="24" column="42" lean-forward="false" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="52" lean-forward="false" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
           <folding />
         </state>
       </provider>
